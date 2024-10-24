@@ -718,7 +718,7 @@ details summary::marker {
 }
 .main__stiker {
   position: absolute;
-  top: auto;
+  top: 0;
   bottom: auto;
   left: auto;
   right: 0;
