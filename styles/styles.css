@@ -2579,16 +2579,16 @@ details summary::marker {
   .form {
     background: #57acbc url(../images/background/form-bg-320.svg) 50% -18% no-repeat;
     background-size: 304px;
-    height: 1132px;
+    height: 1106px;
     -webkit-mask-image: url("data:image/svg+xml,%3Csvg width='304' height='1132' viewBox='0 0 304 1132' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M100 31C44.7715 31 0 75.7715 0 131V1001C0 1056.23 44.7715 1101 100 1101C119.046 1101 136.849 1095.68 152 1086.43C167.151 1095.68 184.954 1101 204 1101C259.228 1101 304 1056.23 304 1001V131C304 75.7715 259.228 31 204 31C184.954 31 167.151 36.3246 152 45.5664C136.849 36.3246 119.046 31 100 31Z' fill='%2357ACBC'/%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M100 732C44.7715 732 0 776.772 0 832V1032C0 1087.23 44.7715 1132 100 1132C119.046 1132 136.849 1126.68 152 1117.43C167.151 1126.68 184.954 1132 204 1132C259.228 1132 304 1087.23 304 1032V832C304 776.772 259.228 732 204 732C184.954 732 167.151 737.325 152 746.566C136.849 737.325 119.046 732 100 732Z' fill='%231B1F21'/%3E%3C/svg%3E%0A");
     mask-image: url("data:image/svg+xml,%3Csvg width='304' height='1132' viewBox='0 0 304 1132' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M100 31C44.7715 31 0 75.7715 0 131V1001C0 1056.23 44.7715 1101 100 1101C119.046 1101 136.849 1095.68 152 1086.43C167.151 1095.68 184.954 1101 204 1101C259.228 1101 304 1056.23 304 1001V131C304 75.7715 259.228 31 204 31C184.954 31 167.151 36.3246 152 45.5664C136.849 36.3246 119.046 31 100 31Z' fill='%2357ACBC'/%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M100 732C44.7715 732 0 776.772 0 832V1032C0 1087.23 44.7715 1132 100 1132C119.046 1132 136.849 1126.68 152 1117.43C167.151 1126.68 184.954 1132 204 1132C259.228 1132 304 1087.23 304 1032V832C304 776.772 259.228 732 204 732C184.954 732 167.151 737.325 152 746.566C136.849 737.325 119.046 732 100 732Z' fill='%231B1F21'/%3E%3C/svg%3E%0A");
-    -webkit-mask-position: center -30px;
-    mask-position: center -30px;
+    -webkit-mask-position: center -27px;
+    mask-position: center -27px;
     -webkit-mask-repeat: no-repeat;
     mask-repeat: no-repeat;
     -o-object-fit: cover;
     object-fit: cover;
-    margin-bottom: 57px;
+    margin-bottom: 88px;
   }
 }
 .form__container {
@@ -2633,7 +2633,7 @@ details summary::marker {
 @media (width < 768px) {
   .form__content {
     width: 304px;
-    padding: 64px 24px 80px;
+    padding: 68px 24px 80px;
   }
 }
 .form__letter {
